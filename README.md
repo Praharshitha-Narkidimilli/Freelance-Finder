@@ -1,11 +1,6 @@
 📌 Freelancer Finder
 Freelancer Finder is a full-stack MERN (MongoDB, Express.js, React, Node.js) web application that connects freelancers with clients. Clients can post jobs, and freelancers can browse, apply, and manage their profiles.
 
-🌐 Live Demo
-Frontend:https://freelancer-finder-client.vercel.app/
-Backend: https://freelancer-finder.onrender.com
-Documents:https://drive.google.com/drive/folders/16vz3f3h8nBAr2mq8Y3S6aCzScO0daoh6?usp=sharing
-
 
 🧰 Tech Stack
 Frontend: React, React Router, Tailwind CSS / CSS
